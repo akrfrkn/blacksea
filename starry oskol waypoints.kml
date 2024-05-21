@@ -1,0 +1,11 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark id="0">
+<name>STARRY OSKOL (B-262)</name><ExtendedData></ExtendedData>
+  <Point><coordinates>30.365760990611758,45.21611880005082</coordinates></Point></Placemark>
+<Placemark id="1">
+<name>starry oskol waypoints</name><ExtendedData>
+  <Data name="distance"><value>193.37</value></Data></ExtendedData>
+  <LineString><coordinates>30.361134755785514,45.217672771350664
+29.7584421774377,46.06042594302724
+30.361134755785514,46.46235669138676
+30.675814951559886,46.484395768491055</coordinates></LineString></Placemark></Document></kml>
